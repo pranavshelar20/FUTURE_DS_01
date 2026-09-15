@@ -75,7 +75,7 @@ The Power BI dashboard provides interactive analysis of:
 
 ### Dashboard Preview
 
-![Business Sales Performance Dashboard](Dashboard/dashboard.png)
+![Business Sales Performance Dashboard](Dashboard/Dashboard.png)
 
 ---
 
